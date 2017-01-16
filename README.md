@@ -1,2 +1,4 @@
 # pi
-raspberry pi scripts
+assorted raspberry pi scripts
+
+
